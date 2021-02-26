@@ -1,11 +1,11 @@
 
 ## brief
 
-A chrome extensions which can add current tab's host to (Shadowsocks-NG)[https://github.com/edolphin-ydf/ShadowsocksX-NG] 's user rule pac and active right now.
+A chrome extensions which can add current tab's host to [https://github.com/edolphin-ydf/ShadowsocksX-NG](Shadowsocks-NG(modified by me)) 's user rule pac and active right now.
 
 ## install
 
-Because this is for (Shadowsocks-NG)[https://github.com/edolphin-ydf/ShadowsocksX-NG], it only work on mac
+Because this is for [https://github.com/edolphin-ydf/ShadowsocksX-NG](Shadowsocks-NG), it only work on mac
 
 Only source code provided. To install this extensions, you need
 
