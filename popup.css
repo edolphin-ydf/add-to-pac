@@ -1,0 +1,29 @@
+/*
+ * button.css
+ * Copyright (C) 2021 edolphin
+ *
+ * Distributed under terms of the MIT license.
+ */
+
+boyd {
+	margin 0;
+	padding 0;
+}
+
+button {
+  height: 32px;
+  width: 80px;
+  outline: auto;
+  margin: 0px;
+  border: none;
+  border-radius: 2px;
+}
+
+button:hover{background-color:orange;}
+
+button:active{background-color:green;}
+
+/*button.current {*/
+  /*box-shadow: 0 0 0 2px white,*/
+              /*0 0 0 4px black;*/
+/*}*/
